@@ -1,0 +1,9 @@
+﻿# Bỏ qua file cấu hình
+appsettings.json
+
+# Bỏ qua thư mục build
+bin/
+obj/
+
+# Bỏ qua thư mục VS settings
+.vs/
